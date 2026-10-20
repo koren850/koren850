@@ -9,10 +9,10 @@ Full-Stack Developer in Haifa, Israel. I work mainly in **TypeScript, React, Nod
 - **WordPress MCP plugin**: 60+ schema-typed tools that AI agents use on a live enterprise site, with per-role permissions, an audit log and undo.
 - **LLM document pipeline**: turns PDFs, Office files and images into structured CMS drafts, with schema-guided extraction and human review.
 - **aiGentyc** (RAG chatbot on 30+ client sites): knowledge-base sync, crawler scheduling, API-key auth, chat analytics; led the Chrome extension.
-- **30+ client websites** from Figma to production, including lead development of [rafael.co.il](https://www.rafael.co.il) since 2023, plus React/Next.js dashboards connected to Priority ERP and Azure AD.
+- **30+ client websites** from Figma to production, including lead development of [rafael.co.il](https://www.rafael.co.il) since 2023, plus React/Next.js dashboards connected to Priority ERP.
 
 #### Stack
-TypeScript · JavaScript · React · Next.js · Vue · Node.js (Express, Hono) · PHP · WordPress · WooCommerce · REST APIs · MySQL · MongoDB · Redis · Docker · Linux · CI/CD · Playwright · AI agents · MCP · RAG · Claude Agent SDK · OpenAI API
+TypeScript · JavaScript · React · Next.js · Vue · Node.js (Express) · PHP · WordPress · WooCommerce · REST APIs · MySQL · MongoDB · Redis · Tailwind · Docker · Linux · CI/CD · Playwright · AI agents · MCP · RAG · Claude Agent SDK · OpenAI API
 
 #### Contact
 [LinkedIn](https://www.linkedin.com/in/koren-aharon/) · korenah3@gmail.com

@@ -12,7 +12,7 @@ Full Stack Engineer in Haifa, Israel. 4+ years in production and 6,500+ commits 
 - **Client platforms**: lead developer on [rafael.co.il](https://www.rafael.co.il) since 2023, about 10 Caesarstone regional sites and the Histadrut. Integrations with Priority ERP, Pelecard and Tranzila payments, Salesforce Marketing Cloud and the gov.il address API.
 
 #### Side project
-- **Wingman**: live meeting assistant. Streaming Hebrew/English speech-to-text feeds Claude, which returns answer cards in real time (Electron, TypeScript, Deepgram). Public release coming soon.
+- **[Wingman](https://github.com/koren850/wingman)**: live meeting assistant. Streaming Hebrew/English speech-to-text feeds Claude, which returns answer cards in real time (Electron, TypeScript, Deepgram).
 
 #### Stack
 TypeScript · JavaScript · React · Next.js · Vue · Node.js (Express) · PHP · WordPress · WooCommerce · REST APIs · MySQL · PostgreSQL · Redis · MongoDB · Docker · CI/CD · Playwright · AI agents · MCP · RAG (Qdrant) · Claude Agent SDK · OpenAI API
